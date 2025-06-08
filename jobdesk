@@ -1,0 +1,19 @@
+Job desk OS
+manager: jevon
+-instalasi vps
+-meninjau alur project
+
+sysAdmin1 : mj
+-setting user
+-instalasi web server, database, ssh
+
+sysadmin2 : vidi
+-setting folder di var/www/
+-konfigurasi website dan domain
+
+web developer: alex
+merancang web tiap anggota
+
+cyber security + editor : matthew
+-setting firewall, monitoring, backup
+-buat ppt dan laporan
