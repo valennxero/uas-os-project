@@ -3,7 +3,7 @@ manager: jevon
 -instalasi vps
 -meninjau alur project
 
-sysAdmin1 : mj
+sysadmin1 : mj
 -setting user
 -instalasi web server, database, ssh
 
